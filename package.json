@@ -58,7 +58,7 @@
   },
   "strapi": {
     "kind": "plugin",
-    "name": "strapi-plugin-key-value",
+    "name": "key-value",
     "displayName": "Key Value Pairs",
     "description": "Create key value pairs"
   },
