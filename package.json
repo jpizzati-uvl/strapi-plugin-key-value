@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.0",
   "keywords": [],
   "type": "commonjs",
   "exports": {
@@ -58,11 +58,11 @@
   },
   "strapi": {
     "kind": "plugin",
-    "name": "key-value",
+    "name": "strapi-plugin-key-value",
     "displayName": "Key Value Pairs",
     "description": "Create key value pairs"
   },
-  "name": "key-value",
+  "name": "strapi-plugin-key-value",
   "description": "Create key value pairs",
   "license": "MIT",
   "author": "jpizzati-uvl <jpizzati@uvltd.com>"
