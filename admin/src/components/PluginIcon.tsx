@@ -1,12 +1,5 @@
-/**
- *
- * PluginIcon
- *
- */
+import { PuzzlePiece } from '@strapi/icons';
 
-import React from 'react';
-import { PinMap } from '@strapi/icons';
+const PluginIcon = () => <PuzzlePiece />;
 
-const PluginIcon = () => <PinMap />;
-
-export default PluginIcon;
+export { PluginIcon };

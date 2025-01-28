@@ -1,5 +1,5 @@
-import customController from './custom-controller';
+import controller from './controller';
 
 export default {
-  customController,
+  controller,
 };

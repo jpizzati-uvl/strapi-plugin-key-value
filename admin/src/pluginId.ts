@@ -1,1 +1,1 @@
-export const PLUGIN_ID = 'markers';
+export const PLUGIN_ID = 'key-value';

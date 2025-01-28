@@ -1,3 +1,3 @@
-# markers
+# key-value
 
-Create annotations on images.
+Create key value pairs
